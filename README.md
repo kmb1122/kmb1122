@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in New Hampshire, USA
 * 🖥️  See my portfolio at [Kim Bowles](http://kmb1122.github.io/Portfolio-2/)
 * ✉️  You can contact me at [silverspace1850@gmail.com](mailto:silverspace1850@gmail.com)
-* 🚀  I'm currently working on [Fullstack Practice Website](http://github.com/kmb1122/Fullstack-Project)
+* 🚀  I'm currently working on [Fullstack Uber Clone](http://github.com/kmb1122/Fullstack-Project)
 * 🧠  I'm currently learning Postgres SQL
 
 <p align="left">
